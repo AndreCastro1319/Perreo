@@ -5,5 +5,6 @@ public class Main {
         reggaeton.name="daddy yankee";
         reggaeton.song="gasolina";
         reggaeton.playSong();
+        reggaeton.money();
     }
 }
