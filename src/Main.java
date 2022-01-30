@@ -4,5 +4,6 @@ public class Main {
         Reggaeton reggaeton=new Reggaeton();
         reggaeton.name="daddy yankee";
         reggaeton.song="gasolina";
+        reggaeton.playSong();
     }
 }
